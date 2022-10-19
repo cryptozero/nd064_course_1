@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/kustomization.json": "file:///home/devops/src/nd064_course_1/exercises/declarative-exercise/namespace.yml"
+    }
+}
