@@ -14,5 +14,5 @@ service:
   type: ClusterIP
   port: 8111
 configmap:
-  data: 
+  data:
     version: alpine
